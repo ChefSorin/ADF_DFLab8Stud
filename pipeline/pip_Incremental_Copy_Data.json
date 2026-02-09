@@ -4,6 +4,7 @@
 		"activities": [
 			{
 				"name": "Get Last Control Load Date",
+				"description": "Last Load Date is pulled from Control Table.",
 				"type": "Lookup",
 				"dependsOn": [],
 				"policy": {
